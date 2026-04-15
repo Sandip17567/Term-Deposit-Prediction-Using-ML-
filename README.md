@@ -63,7 +63,7 @@ This project includes a machine learning model + Streamlit app for real-time pre
 # How to run
  streamlit run appp.py
 #Demo
-![App Screenshot][https://drive.google.com/file/d/116cAteY-Z7SLeBplOw986DXlTJTSbtZQ/view?usp=drive_link][https://drive.google.com/file/d/1TAz1UuswKMKLPZ-lGd9rxcQ5e1CC9lH9/view?usp=sharing]
+![App Screenshot][https://drive.google.com/file/d/116cAteY-Z7SLeBplOw986DXlTJTSbtZQ/view?usp=drive_link][https://drive.google.com/file/d/1TAz1UuswKMKLPZ-lGd9rxcQ5e1CC9lH9/view?usp=drive_link]
 
 ## Conclusion
 This project demonstrates how machine learning can be applied to marketing data to predict customer behavior. Proper preprocessing, handling of imbalanced data, and model selection are critical for achieving high prediction accuracy. The results can help banks optimize marketing strategies, reduce costs, and improve customer targeting.
