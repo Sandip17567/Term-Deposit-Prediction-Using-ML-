@@ -62,7 +62,7 @@ Models were evaluated using:
 This project includes a machine learning model + Streamlit app for real-time prediction.
 # How to run
  streamlit run appp.py
-#Demo
+# Demo
 ![App Screenshot][https://drive.google.com/file/d/116cAteY-Z7SLeBplOw986DXlTJTSbtZQ/view?usp=drive_link][https://drive.google.com/file/d/1TAz1UuswKMKLPZ-lGd9rxcQ5e1CC9lH9/view?usp=drive_link]
 
 ## Conclusion
